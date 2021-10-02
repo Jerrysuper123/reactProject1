@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color: rgb(252, 247, 247);
+  position: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: rgb(34, 31, 33);
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  /* font-weight:; */
+  font-style: italic;
+}
